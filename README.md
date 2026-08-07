@@ -53,3 +53,7 @@ Tweak these values in `motion_detector.py` to adjust sensitivity:
 ## License
 
 MIT
+
+## 🔗 More
+
+- Medium write-ups: [medium.com/@Pop123](https://medium.com/@Pop123)
